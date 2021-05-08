@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>482.jpg</filename>
+	<path>/Users/sai/Desktop/images/train/482.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dial</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>105</ymin>
+			<xmax>733</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>
